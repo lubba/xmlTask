@@ -1,0 +1,283 @@
+﻿<product>
+    <id>1CE3_ME001</id>
+    <title>Экономика, 10-11 кл. (Образец xml-файла)</title>
+    <copyright>ЗАО "1С", 2004</copyright>
+    <copyright>"Фирма", 2004</copyright>
+    <author>Е. Д. Иванов, В. С. Петров, и др.</author>
+    <date>2004</date>
+    <publisher>1С</publisher>
+    <objects>
+        <object>
+            <id>F580772D-A30F-4B30-BE15-F7DB876F4719</id>
+            <title>Определенность прав собственности</title>
+            <author>Абросимова Е.А.</author>
+            <author>Золотов А.В.</author>
+            <author>Автономов В.С.</author>
+            <date>2002</date>
+            <publisher>ООО Издательство "Вита-Пресс"</publisher>
+            <publisher>ЗАО "1С"</publisher>
+            <educationaltype>справочник</educationaltype>
+            <keyword>Определенность прав собственности</keyword>
+            <rubric id="882106AE-0A01-000A-01D3-B9666CDB7CD0"/>
+            <rubric id="882106B7-0A01-000A-01E6-8D7A76AF10D1"/>
+            <duration>15</duration>
+            <class>11</class>
+            <class>10</class>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="0"/>
+                <param name="id" value="F580772D-A30F-4B30-BE15-F7DB876F4719"/>
+            </action>
+        </object>
+        <object>
+            <id>5C69FE5C-5DFE-4998-AE11-8ECFEB8EBCC0</id>
+            <title>История налогообложения</title>
+            <author>Протасевич Т.А.</author>
+            <author>Абросимова Е.А.</author>
+            <author>Автономов В.С.</author>
+            <date>2002</date>
+            <publisher>ООО Издательство "Вита-Пресс"</publisher>
+            <publisher>ЗАО "1С"</publisher>
+            <keyword>поборы</keyword>
+            <keyword>подать</keyword>
+            <keyword>"Бородовой знак"</keyword>
+            <keyword>Петр I</keyword>
+            <keyword>Радищев</keyword>
+            <keyword>Гоголь</keyword>
+            <keyword>налог на бездетность</keyword>
+            <keyword>десятина</keyword>
+            <keyword>Налог</keyword>
+            <educationaltype>справочник</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="0"/>
+                <param name="id" value="5C69FE5C-5DFE-4998-AE11-8ECFEB8EBCC0"/>
+            </action>
+        </object>
+        <object>
+            <id>D5DBA385-9C83-40F7-BC9B-F13726E17E2A</id>
+            <title>Закон о приватизации</title>
+            <date>2002</date>
+            <publisher>ООО Издательство "Вита-Пресс"</publisher>
+            <publisher>ЗАО "1С"</publisher>
+            <educationaltype>справочник</educationaltype>
+            <keyword>имущественный комплекс унитарного предприятия</keyword>
+            <keyword>Закон о приватизации</keyword>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="0"/>
+                <param name="id" value="D5DBA385-9C83-40F7-BC9B-F13726E17E2A"/>
+            </action>
+        </object>
+        <object>
+            <id>3BD8755A-DAEC-4ECE-B53B-9B608E9D0CC2</id>
+            <title>
+                Федеральный закон &quot;О приватизации государственного и муниципального имущества&quot;
+            </title>
+            <date>2002</date>
+            <publisher>ООО Издательство "Вита-Пресс"</publisher>
+            <publisher>ЗАО "1С"</publisher>
+            <educationaltype>справочник</educationaltype>
+            <keyword>открытое акционерное общество</keyword>
+            <keyword>муниципальное имущество</keyword>
+            <keyword>аукцион</keyword>
+            <keyword>преобразование унитарного предприятия</keyword>
+            <keyword>
+                Федеральный закон "О приватизации государственного и муниципального имущества"
+            </keyword>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="0"/>
+                <param name="id" value="3BD8755A-DAEC-4ECE-B53B-9B608E9D0CC2"/>
+            </action>
+        </object>
+        <object>
+            <id>BC539B87-0435-457B-A543-D899B72A98D8</id>
+            <title>Проблемы внешней торговли</title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="BC539B87-0435-457B-A543-D899B72A98D8"/>
+            </action>
+        </object>
+        <object>
+            <id>3531B548-831C-44A2-85CB-D409F548B08C</id>
+            <title>Проблемы внешней торговли. Итоговый контроль</title>
+            <duration>15</duration>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="3531B548-831C-44A2-85CB-D409F548B08C"/>
+            </action>
+        </object>
+        <object>
+            <id>A8A9378B-C2A6-4634-A747-F8830697697D</id>
+            <title>
+                Ситуация. Надо ли России вступать в ВТО? Металлурги - &quot;За&quot;!
+            </title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="A8A9378B-C2A6-4634-A747-F8830697697D"/>
+            </action>
+        </object>
+        <object>
+            <id>56928322-004B-4EAE-B018-D1291C337353</id>
+            <title>Право и экономика переходного периода</title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="56928322-004B-4EAE-B018-D1291C337353"/>
+            </action>
+        </object>
+        <object>
+            <id>425AC968-B419-4DAE-8E27-165F7D1BC64D</id>
+            <title>
+                Право и экономика переходного периода. Итоговый контроль
+            </title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="425AC968-B419-4DAE-8E27-165F7D1BC64D"/>
+            </action>
+        </object>
+        <object>
+            <id>F0419E73-8A55-4482-92B7-B2EF81772CF3</id>
+            <title>
+                Правоохранительные органы РФ, регулирующие экономическую деятельность. Итоговый контроль
+            </title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="F0419E73-8A55-4482-92B7-B2EF81772CF3"/>
+            </action>
+        </object>
+        <object>
+            <id>EEA76625-0526-41DC-9C44-691CB3BCD34C</id>
+            <title>
+                Правоохранительные органы РФ, регулирующие экономическую деятельность
+            </title>
+            <educationaltype>Урок</educationaltype>
+            <rubric id="882106AE-0A01-000A-01D3-B9666CDB7CD0"/>
+            <rubric id="882106B7-0A01-000A-01E6-8D7A76AF10D1"/>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="EEA76625-0526-41DC-9C44-691CB3BCD34C"/>
+            </action>
+        </object>
+        <object>
+            <id>575D713D-7416-4FE2-8314-EEBB18D61816</id>
+            <title>Итоговая контрольная работа по курсу</title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="575D713D-7416-4FE2-8314-EEBB18D61816"/>
+            </action>
+        </object>
+        <object>
+            <id>8CA09CE6-0A01-000A-0013-BD7F91801E80</id>
+            <title>Ситуация. Потребитель диктует законы</title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="8CA09CE6-0A01-000A-0013-BD7F91801E80"/>
+            </action>
+        </object>
+        <object>
+            <id>8CA2CA51-0A01-000A-010F-1B23424793E6</id>
+            <title>
+                Ситуация. Как зарождался консюмеризм и чего он достиг?
+            </title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="8CA2CA51-0A01-000A-010F-1B23424793E6"/>
+            </action>
+        </object>
+        <object>
+            <id>5E6478FA-C4EB-4A02-B5A2-E7367EC70DBE</id>
+            <title>Мир экономики в играх и примерах</title>
+            <educationaltype>Урок</educationaltype>
+            <action name="open" handler="5BBA40CA-DBA7-4F09-B625-93203A4085DD">
+                <param name="action" value="open"/>
+                <param name="database" value="edu_eip"/>
+                <param name="objType" value="4"/>
+                <param name="id" value="5E6478FA-C4EB-4A02-B5A2-E7367EC70DBE"/>
+            </action>
+        </object>
+    </objects>
+    <classification>
+        <rubric id="8821064F-0A01-000A-0088-4AB904E78C1C" name="Классы">
+            <rubric id="8821065C-0A01-000A-0075-C13A9A96E8C7" name="Одиннадцать классов">
+                <rubric id="88210666-0A01-000A-006E-1C9A935EDA88" name="1"/>
+                <rubric id="8821066E-0A01-000A-0121-EE775A45166B" name="2"/>
+                <rubric id="88210676-0A01-000A-00E5-5F58324C6726" name="3"/>
+                <rubric id="8821067D-0A01-000A-009F-55D2CBB9C686" name="4"/>
+                <rubric id="88210685-0A01-000A-00E8-4A9E1EBF0607" name="5"/>
+                <rubric id="8821068F-0A01-000A-0179-51F33A6B19E1" name="6"/>
+                <rubric id="88210697-0A01-000A-0140-C6219D549DAE" name="7"/>
+                <rubric id="8821069F-0A01-000A-00F9-8B5C5B57606C" name="8"/>
+                <rubric id="882106A6-0A01-000A-01A6-B6602039FCEB" name="9"/>
+                <rubric id="882106AE-0A01-000A-01D3-B9666CDB7CD0" name="10"/>
+                <rubric id="882106B7-0A01-000A-01E6-8D7A76AF10D1" name="11"/>
+            </rubric>
+        </rubric>
+    </classification>
+    <userhandler uuid="D79A28B6-F5ED-4FE0-9C97-FA252BD33D9B" name="1С:Образование. Администратор">
+        <description>Оболочка 1С:Образование</description>
+        <application>
+            <executable version="1.0.0.102">
+                <registry key="HKEY_LOCAL_MACHINE\SOFTWARE\1C\1C Education\Products\1CE3\Applications\1CEduWeb"
+                          value="Administrator"/>
+            </executable>
+            <params>
+                <param value="-D:${filename}"/>
+                <param value="-l:sa"/>
+                <param value="-p:"/>
+            </params>
+        </application>
+    </userhandler>
+    <handlers>
+        <handler uuid="5BBA40CA-DBA7-4F09-B625-93203A4085DD" name="1С:Образование. Просмотр объектов">
+            <description>1С:Образование. Просмотр объектов</description>
+            <application>
+                <executable version="1.0.0.312">
+                    <registry key="HKEY_LOCAL_MACHINE\SOFTWARE\1C\1C Education\Products\1CE3\Applications\1CEduWeb"
+                              value="ObjViewer"/>
+                </executable>
+                <params>
+                    <param value="-l:${login}"/>
+                    <param value="-p:${password}"/>
+                    <param value="-d:${database}"/>
+                    <param value="-ot:${objType}"/>
+                    <param value="-guid:${id}"/>
+                    <param value="-a:=${action}"/>
+                </params>
+            </application>
+        </handler>
+    </handlers>
+</product>
